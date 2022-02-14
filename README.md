@@ -10,4 +10,4 @@ Different applications of a similar topic-modeling algorithm can help answer sev
 
 **Possible improvements**
 
-1.  This project has been developed using publicly available data. The owners of a social page have access to more advanced statistics (e.g. the number of new followers a certain post has generated or the number of times a certain post has been reshared). Integrating this type of statistics into the analysis can provide even more useful insights.
+- This project has been developed using publicly available data. The owners of a social page have access to more advanced statistics (e.g. the number of new followers a certain post has generated or the number of times a certain post has been reshared). Integrating this type of statistics into the analysis can provide even more useful insights.
