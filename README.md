@@ -1,6 +1,6 @@
 **Problem statement**
 
-Social media are characterizing the first part of the third millennium and today represent strategic communication channels. In fact, they allow companies to leverage the power of exchanges between people to positively direct their attitudes and behaviors towards their own corporate image, brand or products / services provided. In other words, social media provide detailed real-time feedback from consumers which constitutes real "market intelligence". The contents published on social networks can be of different types: bodies of text, images, videos, etc. This project aims to provide a way to group posts of an instagram page by topic (targeting social channels where more importance is given to text).
+Social media are characterizing the first part of the third millennium and today represent strategic communication channels. In fact, they allow companies to leverage the power of exchanges between people to positively direct their attitudes and behaviors towards their own corporate image, brand or products / services provided. In other words, social media provide detailed real-time feedback from consumers which constitutes real "market intelligence". The contents published on social networks can be of different types: bodies of text, images, videos, etc. This project, carried out using the LDA algorithm, aims to provide a way to group posts of an instagram page by topic (targeting social channels where more importance is given to text).
 
 **Practical implications**
 
